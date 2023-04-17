@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0f8e12462a5e4b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c4580ecb57ad7b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f47839ce941e18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce162ef414c184b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9bdb69d8b0b8cd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aca2d0e9989bf39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2882d261b30fc61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "561eeeb33aa25fd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6135b376d96f0ce5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ce65cffffca4b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "68768000db694774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac9e1edb8c24bf31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flutter简介.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abf514254301e580",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flutter简介.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fff060c42d480850",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "902b8c05d4724632",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flutter简介.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ce162ef414c184b5",
+  "lastOpenFiles": [
+    "ChatNote/chatgpt-驼峰转下划线插件.md",
+    "ChatNote/chatgpt-驼峰转下划线.md",
+    "ChatNote/chatgpt-防止MySQL数据重复.md",
+    "ChatNote/chatgpt-重构添加和删除书签接口代码 (Refactor bookmark APIs).md",
+    "ChatNote/chatgpt-重构代码层次划分.md",
+    "ChatNote/chatgpt-重定向命令区别.md",
+    "ChatNote/chatgpt-部署Flask应用程序.md",
+    "ChatNote/chatgpt-通过gunicorn启动Flask应用程序.md",
+    "ChatNote/chatgpt-选择MySQL排序规则。.md",
+    "ChatNote/chatgpt-运行没有.dmg的文件.md",
+    "ChatNote/chatgpt-过滤列表元素.md",
+    "ChatNote/chatgpt-转换驼峰为下划线.md",
+    "ChatNote/chatgpt-转换书签列表.md",
+    "ChatNote/chatgpt-转换URL_Schema到书签.md",
+    "ChatNote/chatgpt-转换Telegram到RSS.md",
+    "ChatNote/chatgpt-转换AppleScript代码.md",
+    "ChatNote/chatgpt-调用js文件中的函数.md",
+    "ChatNote/chatgpt-请求增加速率限制.md",
+    "ChatNote/chatgpt-请python将文件路径中的空格等字符都转换一下.md",
+    "ChatNote/chatgpt-词性类型请求.md",
+    "ChatNote/chatgpt-设置测试文件路径.md",
+    "ChatNote/chatgpt-设置PYTHONPATH路径.md",
+    "ChatNote/chatgpt-记录分词及位置.md",
+    "ChatNote/chatgpt-记录Flask网络日志.md",
+    "ChatNote/chatgpt-计数列表元素.md",
+    "ChatNote/chatgpt-解析Chrome书签到MD文件.md",
+    "ChatNote",
+    "程序员鱼皮"
+  ]
+}
