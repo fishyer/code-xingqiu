@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter简介.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce162ef414c184b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter简介.md",
+                "file": "详解预训练模型 ——从词向量到GPT模型_抚顺菜市场的博客-CSDN博客.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter简介.md",
+                "file": "详解预训练模型 ——从词向量到GPT模型_抚顺菜市场的博客-CSDN博客.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter简介.md",
+                "file": "详解预训练模型 ——从词向量到GPT模型_抚顺菜市场的博客-CSDN博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter简介.md"
+                "file": "详解预训练模型 ——从词向量到GPT模型_抚顺菜市场的博客-CSDN博客.md"
               }
             }
           }
@@ -159,34 +146,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ce162ef414c184b5",
+  "active": "8f47839ce941e18d",
   "lastOpenFiles": [
-    "ChatNote/chatgpt-驼峰转下划线插件.md",
-    "ChatNote/chatgpt-驼峰转下划线.md",
-    "ChatNote/chatgpt-防止MySQL数据重复.md",
-    "ChatNote/chatgpt-重构添加和删除书签接口代码 (Refactor bookmark APIs).md",
-    "ChatNote/chatgpt-重构代码层次划分.md",
-    "ChatNote/chatgpt-重定向命令区别.md",
-    "ChatNote/chatgpt-部署Flask应用程序.md",
-    "ChatNote/chatgpt-通过gunicorn启动Flask应用程序.md",
-    "ChatNote/chatgpt-选择MySQL排序规则。.md",
-    "ChatNote/chatgpt-运行没有.dmg的文件.md",
-    "ChatNote/chatgpt-过滤列表元素.md",
-    "ChatNote/chatgpt-转换驼峰为下划线.md",
-    "ChatNote/chatgpt-转换书签列表.md",
-    "ChatNote/chatgpt-转换URL_Schema到书签.md",
-    "ChatNote/chatgpt-转换Telegram到RSS.md",
-    "ChatNote/chatgpt-转换AppleScript代码.md",
-    "ChatNote/chatgpt-调用js文件中的函数.md",
-    "ChatNote/chatgpt-请求增加速率限制.md",
-    "ChatNote/chatgpt-请python将文件路径中的空格等字符都转换一下.md",
-    "ChatNote/chatgpt-词性类型请求.md",
-    "ChatNote/chatgpt-设置测试文件路径.md",
-    "ChatNote/chatgpt-设置PYTHONPATH路径.md",
-    "ChatNote/chatgpt-记录分词及位置.md",
-    "ChatNote/chatgpt-记录Flask网络日志.md",
+    "万字长文教你如何做出 ChatGPT - 墨天轮.md",
+    "如何训练自己的GPT模型？ - 知乎.md",
+    "如何训练一个自己的GPT模型  闫金钢的Blog.md",
+    "王兴 进击的美团：能活到最后的才是「老艺术家」 林军-知乎结局全文后续.md",
+    "详解预训练模型 ——从词向量到GPT模型_抚顺菜市场的博客-CSDN博客.md",
+    "预训练语言模型之GPT-1，GPT-2和GPT-3 - 知乎.md",
+    "ChatNote/chatgpt-个税专项扣除.md",
+    "人怎样才能学会深度思考？.md",
+    "李飞飞高徒教你从0到1构建GPT，马斯克点赞  量子位.md",
+    "来了来了！.md",
+    "告别十年印象笔记，用 Obsidian 一年最喜欢的 7 个功能 - 少数派.md",
+    "帮你找到生活的意义：100个普通人值得追求的人生目标（上）-36氪.md",
     "ChatNote/chatgpt-计数列表元素.md",
-    "ChatNote/chatgpt-解析Chrome书签到MD文件.md",
+    "ChatNote/chatgpt-安装DAUtils和DBUtils。.md",
+    "ChatNote/chatgpt-编写 PopClip 插件.md",
+    "ChatNote/chatgpt-不要用可乐代替早餐.md",
+    "ChatNote/chatgpt-记录Flask网络日志.md",
+    "ChatNote/chatgpt-无序列表的CSS.md",
+    "ChatNote/chatgpt-无法拦截Google_HTTPS请求.md",
+    "ChatNote/chatgpt-文本自动生成请求.md",
+    "ChatNote/chatgpt-什么是REPL环境.md",
+    "ChatNote/chatgpt-删除书签方法.md",
+    "ChatNote/chatgpt-设置PYTHONPATH路径.md",
+    "ChatNote/chatgpt-申请OpenAI_API_Key.md",
+    "ChatNote/chatgpt-使用布隆过滤器优化.md",
+    "ChatNote/chatgpt-生成文本参数解释..md",
     "ChatNote",
     "程序员鱼皮"
   ]
